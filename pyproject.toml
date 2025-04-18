@@ -1,0 +1,13 @@
+[project]
+name = "cse251b-kaggle"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.4",
+    "pandas>=2.2.3",
+    "pip>=25.0.1",
+    "torch>=2.6.0",
+    "tqdm>=4.67.1",
+]
