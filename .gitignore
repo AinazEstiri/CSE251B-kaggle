@@ -1,4 +1,5 @@
 uv.lock
+.vscode/
 
 # lets not get in trouble for leaking the datasets <3
 *.npz
