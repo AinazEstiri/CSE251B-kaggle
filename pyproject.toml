@@ -10,5 +10,6 @@ dependencies = [
     "pandas>=2.2.3",
     "pip>=25.0.1",
     "torch>=2.6.0",
+    "torch-geometric>=2.6.1",
     "tqdm>=4.67.1",
 ]
