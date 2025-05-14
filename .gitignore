@@ -1,4 +1,6 @@
 uv.lock
+.vscode/
+best_model.pt
 
 # lets not get in trouble for leaking the datasets <3
 *.npz
