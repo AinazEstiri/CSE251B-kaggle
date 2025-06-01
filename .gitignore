@@ -12,6 +12,9 @@ submission/
 *.gif
 *.csv
 
+# excuse these files
+!final_submission_files/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
